@@ -1,4 +1,4 @@
-# Societal-good model: findings for Gad and Simon
+# Societal-good model: comprehensive findings
 
 ## Executive summary
 
@@ -266,6 +266,6 @@ The model behaves more like a high-confidence detector than a smooth ranking mea
 5. Independently annotate a stratified audit sample across occupations and summary lengths to estimate precision, recall, and subgroup calibration in the deployment population.
 6. Inspect false negatives in engineering, finance, manufacturing, and technical roles to determine whether the label definition or training language misses indirect forms of societal contribution.
 
-## Bottom line for the meeting
+## Conclusion
 
 The data supports a careful version of the original hypothesis: **people associated with liberal-arts colleges are modestly more likely to receive the model's societally-good label, and that advantage appears across selectivity bands.** The larger story is that health and education fields, nonprofit work, smaller organizations, advanced degrees, female profiles, and younger cohorts all correlate much more strongly with the label. The nonprofit and cohort patterns survive broad occupation adjustment. However, the model's extreme dependence on profile-summary length means the results should be presented as promising descriptive evidence that requires text-length adjustment and human validation—not as a causal ranking of people or colleges.

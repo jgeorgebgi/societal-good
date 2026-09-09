@@ -1,4 +1,4 @@
-"""Run composition-adjusted robustness checks for the meeting brief."""
+"""Run composition-adjusted robustness checks for the findings report."""
 
 from pathlib import Path
 import os

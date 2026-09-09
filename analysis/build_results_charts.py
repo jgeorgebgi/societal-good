@@ -1,4 +1,4 @@
-"""Build compact meeting charts from the saved aggregate analysis outputs."""
+"""Build compact report charts from the saved aggregate analysis outputs."""
 
 from pathlib import Path
 import pandas as pd

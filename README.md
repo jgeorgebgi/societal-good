@@ -11,7 +11,7 @@ Reproducible scoring and analysis for a ModernBERT ensemble that identifies expl
 - `analysis/` — hypothesis tests and robustness checks, including the liberal-arts-college comparison.
 - `results/` — aggregate outputs and charts used in the findings report. These contain no person-level profile text.
 - `scripts/publish_results_to_snowflake.py` — optional loader that publishes each aggregate CSV as an easy-to-query Snowflake table.
-- `docs/findings.md` — meeting-ready interpretation, caveats, and headline results.
+- `docs/findings.md` — report-ready interpretation, caveats, and headline results.
 - `docs/label-definition.md` and `docs/model-development.md` — the construct definition, decision rules, experiments, rejected approaches, and model-selection reasoning.
 
 Large model weights, raw profile text, credentials, caches, archives, and intermediate training files are intentionally excluded.
@@ -69,7 +69,7 @@ First run `sql/create_analysis_tables.sql` in Snowflake, then:
 ```bash
 python analysis/run_comprehensive_hypotheses.py
 python analysis/run_adjusted_hypotheses.py
-python analysis/build_meeting_charts.py
+python analysis/build_results_charts.py
 ```
 
 Set `RESUME=1` to reuse saved CSVs instead of re-querying Snowflake.
