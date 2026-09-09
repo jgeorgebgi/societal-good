@@ -1,7 +1,7 @@
 """
 Export the 3-seed ensemble's probability for every v6-test row to a small CSV.
 Run on the EC2 box (where the models live), then scp the tiny output down — that's
-all you need locally to score the model against your gold hand-labels.
+all you need locally to score the model against the reference evaluation labels.
 
 Run: python export_test_probs.py
 Output: ./test_ensemble_probs.csv  (person_id, ensemble_prob)  — a few KB

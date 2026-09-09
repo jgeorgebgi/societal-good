@@ -5,14 +5,14 @@ Reproducible scoring and analysis for a ModernBERT ensemble that identifies expl
 ## What is here
 
 - `src/score_full_db.py` — resumable, horizontally sharded GPU scoring over Snowflake data.
-- `pipeline/` — curated label construction: reproducible split, four-voter adjudication, and manual resolution of tied votes.
+- `pipeline/` — curated label construction: reproducible split, four-voter adjudication, and resolution of tied votes.
 - `training/` — the selected ModernBERT training, honest ensemble evaluation, probability export, and error review scripts.
 - `sql/create_analysis_tables.sql` — person-, education-, occupation-, industry-, college-, and geography-level analytical tables.
 - `analysis/` — hypothesis tests and robustness checks, including the liberal-arts-college comparison.
 - `results/` — aggregate outputs and charts used in the findings report. These contain no person-level profile text.
 - `scripts/publish_results_to_snowflake.py` — optional loader that publishes each aggregate CSV as an easy-to-query Snowflake table.
 - `docs/findings.md` — meeting-ready interpretation, caveats, and headline results.
-- `docs/labeling-rubric.md` and `docs/model-development.md` — the construct definition, decision rules, experiments, rejected approaches, and model-selection reasoning.
+- `docs/label-definition.md` and `docs/model-development.md` — the construct definition, decision rules, experiments, rejected approaches, and model-selection reasoning.
 
 Large model weights, raw profile text, credentials, caches, archives, and intermediate training files are intentionally excluded.
 
@@ -22,7 +22,7 @@ The repository retains one legible path from human judgment to production output
 
 1. Define explicit prosocial framing with a strict rubric.
 2. Deduplicate and freeze comparable train, validation, and test splits.
-3. Use four independent model votes for the final evaluation labels; manually adjudicate only 2–2 ties.
+3. Use four independent model votes for the final evaluation labels and isolate 2–2 ties for resolution.
 4. Train ModernBERT with length-grouped dynamic padding and choose the decision threshold on validation data.
 5. Evaluate the three-seed ensemble on the untouched test set and review high-confidence disagreements.
 6. Score Snowflake in stable, resume-safe shards.

@@ -4,7 +4,7 @@ Goal: tell apart model mistakes from LABEL mistakes.
 
 For every disagreement it dumps the model's confidence, the gold v6 label, the v6
 confidence (1.0=4-0, 0.75=3-1, 0.50=2-2 split), the 4 individual ensemble votes, and
-each voter's reasoning -> you can eyeball whether the label itself is wrong.
+each voter's reasoning for structured review of the reference label.
 
 Sorted so the most confident misses come first (model very sure + disagrees = label most suspect).
 
@@ -107,4 +107,4 @@ hi = [i for i in disagree if margin[i] > 0.40]
 print(f'\nHigh-confidence misses (model >0.40 past threshold): {len(hi)} -> most likely LABEL errors')
 unan = [i for i in disagree if len(set(rows[i].get(v) for v in VOTES)) > 1]
 print(f'Misses where the 4 voters were NOT unanimous: {len(unan)} of {len(disagree)} -> label was contested')
-print('\nWrote errors_v6_review.csv  (sorted: most-confident misses first). Pull it down and eyeball the top rows.')
+print('\nWrote errors_v6_review.csv  (sorted: most-confident misses first).')

@@ -11,7 +11,7 @@ Deduplicated fixed splits (`pipeline/build_10k_split.py`)
         ↓
 Four-voter evaluation labels (`pipeline/relabel_v6_ensemble.py`)
         ↓
-Human review of 2–2 ties (`pipeline/apply_v6_splits_review.py`)
+Resolution of 2–2 ties (`pipeline/apply_review_resolutions.py`)
         ↓
 ModernBERT training (`training/train_modernbert_v6_best.py`)
         ↓
@@ -33,7 +33,7 @@ The label measures explicit prosocial framing in a self-description. Occupation,
 
 ### Label quality
 
-Earlier labels inherited pairwise winners and ties, which did not reliably represent an absolute binary construct. The final evaluation labels use four independent votes. Unanimous and 3–1 outcomes are retained; 2–2 splits are surfaced for manual review. The exact rules and examples are in `labeling-rubric.md`; the full iteration history is in `model-development.md`.
+Earlier labels inherited pairwise winners and ties, which did not reliably represent an absolute binary construct. The final evaluation labels use four independent votes. Unanimous and 3–1 outcomes are retained; 2–2 splits are isolated for resolution. The exact rules and examples are in `label-definition.md`; the iteration history is in `model-development.md`.
 
 ### Model choice
 

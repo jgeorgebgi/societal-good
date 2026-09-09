@@ -262,8 +262,8 @@ The model behaves more like a high-confidence detector than a smooth ranking mea
 1. Re-estimate the college, major, employer, gender, race, and cohort gaps within summary-length bands or with summary length as a covariate.
 2. Fit a person-level multivariable model with occupation, industry, employer type/size, education, geography, cohort, gender, and text length together.
 3. Restrict college analysis to a defined primary undergraduate institution and one row per person.
-4. Add fuzzy/manual review for high-volume unmatched institutions, while retaining a strict match-quality flag.
-5. Hand-label a stratified audit sample across occupations and summary lengths to estimate precision, recall, and subgroup calibration in the deployment population.
+4. Add a curated review step for high-volume unmatched institutions, while retaining a strict match-quality flag.
+5. Independently annotate a stratified audit sample across occupations and summary lengths to estimate precision, recall, and subgroup calibration in the deployment population.
 6. Inspect false negatives in engineering, finance, manufacturing, and technical roles to determine whether the label definition or training language misses indirect forms of societal contribution.
 
 ## Bottom line for the meeting

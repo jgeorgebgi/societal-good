@@ -1,13 +1,12 @@
-"""
-Merge your hand-reviewed split-decision labels back into the v6 test file.
+"""Merge resolved split-decision labels back into the v6 test file.
 
 Workflow:
-  1. Open v6_splits_for_review.csv. For each of the 13 split rows, fill
-     `your_call` with 0 or 1 based on your reading of the summary + reasoning.
-  2. Run: python3 apply_v6_splits_review.py
+  1. Resolve the split rows in v6_splits_for_review.csv by setting
+     `resolved_label` to 0 or 1 under the published label definition.
+  2. Run: python3 pipeline/apply_review_resolutions.py
 
-Output: ft10k_test_split_v6_final.csv with a v6_final column. v6_final = your_call
-where you supplied one, else v6_label.
+Output: ft10k_test_split_v6_final.csv with a v6_final column. v6_final uses
+`resolved_label` where supplied and otherwise falls back to v6_label.
 """
 import csv
 from pathlib import Path
@@ -16,7 +15,7 @@ ROOT = Path(__file__).resolve().parents[1]
 
 reviews = {}
 for r in csv.DictReader(open(ROOT / "v6_splits_for_review.csv")):
-    yc = r.get("your_call", "").strip()
+    yc = r.get("resolved_label", "").strip()
     if yc in ("0", "1"):
         reviews[r["person_id"]] = int(yc)
 
@@ -50,4 +49,4 @@ n_final_pos = sum(1 for r in rows if r["v6_final"] == "1")
 print(f"\nWrote {out_path.name}: {len(rows)} rows, {n_final_pos} positives "
       f"({n_final_pos/len(rows):.1%})")
 print(f"v6_final overrides v6_label on: {n_changed} rows")
-print(f"Split rows still unresolved (no your_call): {n_split_unresolved}")
+print(f"Split rows still unresolved (no resolved_label): {n_split_unresolved}")
