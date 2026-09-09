@@ -1,0 +1,264 @@
+OCCUPATION,SEX,N,AVG_PROB,POSITIVE_SHARE
+education and childcare administrators,female,18683,0.4639914557290475,0.454049
+chemical engineers,male,12558,0.08492289364416991,0.079232
+accountants and auditors,female,69382,0.08782231105879781,0.083120
+therapists,female,53197,0.49047762520235816,0.478768
+computer support specialists,male,64362,0.10937317497547415,0.101970
+medical and health services managers,female,48730,0.4460496621809507,0.434106
+real estate brokers and sales agents,female,150312,0.2729822727612788,0.259700
+clergy,male,18832,0.42665585593832045,0.412171
+"claims adjusters, appraisers, examiners, and investigators",female,9406,0.15679869180133832,0.150011
+market research analysts and marketing specialists,male,24972,0.14702466331547628,0.138475
+miscellaneous healthcare support occupations,female,33130,0.34346521792523355,0.334199
+writers and editors,male,25763,0.16102221376195935,0.149478
+financial managers,male,108952,0.1051882900749988,0.098511
+natural sciences managers,female,20128,0.35050333255960525,0.340372
+miscellaneous postsecondary teachers,female,10182,0.4120439490575968,0.398252
+administrative services and facilities managers,female,19561,0.2246780068246011,0.213435
+miscellaneous office and administrative support workers,female,5294,0.23361915292765859,0.224027
+first-line supervisors of transportation and material moving workers,male,16791,0.10746372448159906,0.099160
+food service managers,male,11441,0.1347335895172855,0.124727
+education and childcare administrators,male,14257,0.3658332175322491,0.355545
+secondary school teachers,female,15955,0.459161740738313,0.448323
+laborers and material movers,male,13411,0.1226983518287953,0.114980
+miscellaneous healthcare support occupations,male,5705,0.31446785191013177,0.306748
+"miscellaneous electrical and electronic equipment mechanics, installers, and repairers",male,5335,0.08564028097727132,0.078913
+detectives and criminal investigators,male,7551,0.20413387573655714,0.193484
+credit counselors and loan officers,female,28341,0.2513218052769566,0.237959
+social workers,female,22307,0.5641268957867306,0.551083
+logisticians and project management specialists,female,26051,0.14945133355929685,0.142183
+first-line supervisors of sales workers,male,18953,0.15215697750210436,0.143618
+physicians,male,19182,0.343126732419991,0.333698
+payroll and timekeeping clerks,female,8919,0.1165609259542562,0.108981
+miscellaneous business operations specialists,male,17563,0.14719225621473156,0.136993
+retail salespersons,male,7507,0.15015747926327017,0.141601
+construction and building inspectors,male,7071,0.14351178024814537,0.134493
+marketing and sales managers,male,338114,0.1343490787740992,0.125635
+"barbers, hairdressers, hairstylists and cosmetologists",female,10476,0.2194748276009876,0.208763
+"health teachers, postsecondary",female,13395,0.43737077883147724,0.425009
+counselors,female,54005,0.5707228037155508,0.558670
+registered nurses,male,23170,0.42231730570344644,0.413034
+secretaries and administrative assistants,male,39856,0.2000430895508166,0.191013
+miscellaneous managers,female,60431,0.24060388979708638,0.229783
+lodging managers,female,5027,0.19801107980673918,0.188980
+lawyers and judicial law clerks,female,68765,0.2278309890366099,0.218585
+"transportation, storage, and distribution managers",male,64263,0.10436461405870455,0.095887
+"broadcast, sound, and lighting technicians",male,11164,0.08309123061253698,0.077392
+"engineering technologists and technicians, except drafters",female,27935,0.19960216887296617,0.191301
+aircraft pilots and flight engineers,male,13222,0.13946234274755212,0.129708
+artists and related workers,male,52369,0.1002084953796648,0.093013
+occupational health and safety specialists and technicians,male,5291,0.2926206384031615,0.274050
+drafters,female,7697,0.19043241484333215,0.181759
+miscellaneous postsecondary teachers,male,11312,0.2817033939302455,0.268299
+procurement clerks,female,5526,0.10475282262563923,0.099349
+training and development managers,male,14194,0.27239958364223665,0.259124
+"substitute teachers, short-term",male,6144,0.31680211507812334,0.306966
+supervisors of food preparation and serving workers,female,6450,0.17326100743860445,0.163876
+first-line supervisors of production and operating workers,male,15635,0.10331396853100397,0.094276
+cashiers,female,8476,0.20238966436310038,0.195257
+waiters and waitresses,female,12828,0.23314151011578163,0.225990
+"compensation, benefits, and job analysis specialists",female,12938,0.230724021976779,0.218504
+recreation and fitness workers,female,13664,0.45402274475861837,0.441964
+"industrial engineers, including health and safety",female,24585,0.17138681670315337,0.162823
+compensation and benefits managers,male,8763,0.21695200235715262,0.204724
+public relations and fundraising managers,female,47346,0.287986319164461,0.275440
+purchasing managers,male,13024,0.08054744304925472,0.074401
+special education teachers,female,17207,0.5001981444533867,0.488813
+"health teachers, postsecondary",male,7395,0.30587299447651695,0.294659
+"maintenance and repair workers, general",male,9787,0.08663950127028645,0.079902
+receptionists and information clerks,female,9802,0.21496620022156662,0.206488
+cooks,male,6578,0.1360038307210071,0.129523
+home health and personal care aides,female,7318,0.3832066127733559,0.372096
+"meter readers, utilities",male,5859,0.08243729294253874,0.075781
+architectural and engineering managers,female,72087,0.18578970376291312,0.176301
+chief executives,female,811904,0.3527264817708756,0.339387
+"software and web developers, programmers, and testers",male,351655,0.10262017786572573,0.096350
+computer and information systems managers,male,184288,0.13707257428647382,0.127507
+secretaries and administrative assistants,female,173216,0.20339939155971629,0.194595
+computer and information analysts,male,42025,0.10599985228756958,0.096466
+"arts, communications, history, and humanities teachers, postsecondary",male,16428,0.3045151075231846,0.292306
+compliance officers,female,13546,0.177594182335997,0.169423
+miscellaneous media and communication workers,female,5858,0.23354588519790245,0.224821
+construction managers,male,24364,0.08757655544212624,0.080241
+tutors,female,7411,0.43885865475312313,0.426933
+therapists,male,16243,0.4723255483328072,0.460260
+purchasing managers,female,11722,0.1031459475182563,0.096144
+miscellaneous personal appearance workers,female,7677,0.24528699954275845,0.233946
+customer service representatives,female,68231,0.1835810169741841,0.175096
+counselors,male,21427,0.41792167709498385,0.405236
+database and network administrators and architects,female,16744,0.15299385415454939,0.145246
+miscellaneous healthcare diagnosing or treating practitioners,female,13552,0.5021606837518371,0.490924
+public relations specialists,female,20522,0.2617442104218647,0.251632
+"office clerks, general",female,5480,0.19778963447706902,0.190328
+environmental scientists and geoscientists,male,6323,0.15810781257151732,0.148505
+pharmacists,female,13058,0.4792870789338454,0.470516
+"adult basic education, adult secondary education, and english as a second language instructors",female,11572,0.445960437673125,0.436139
+clinical laboratory technologists and technicians,female,7019,0.2846747249840845,0.275965
+recreation and fitness workers,male,5591,0.4107464304783242,0.395636
+miscellaneous computer occupations,female,146402,0.17976237921204233,0.170995
+computer and information systems managers,female,65834,0.24440775081253255,0.233451
+civil engineers,male,26292,0.12492881840120831,0.118553
+billing and posting clerks,female,17127,0.10069859259863172,0.095522
+"actors, producers, and directors",female,37993,0.3244810929438629,0.312794
+public relations specialists,male,9006,0.22199340401185613,0.209416
+"models, demonstrators, and product promoters",female,6000,0.21667034935518678,0.207000
+flight attendants,female,5793,0.21050258876326727,0.199379
+bill and account collectors,female,8906,0.10806312577060498,0.102403
+social science research assistants,female,9319,0.33942390717394216,0.326859
+management analysts,female,10023,0.2132618772062189,0.203632
+general and operations managers,female,182005,0.21864265934820695,0.207395
+real estate brokers and sales agents,male,91379,0.22211279884167412,0.210924
+"athletes, coaches, umpires, and related workers",male,20245,0.28151852224387597,0.271919
+personal service managers,female,5699,0.48691029897352267,0.474118
+financial analysts and advisors,male,119091,0.2302403417293065,0.216314
+advertising and promotions managers,male,43396,0.14370362918574725,0.133653
+human resources managers,male,34190,0.23233477890286644,0.216467
+elementary and middle school teachers,male,13593,0.39678571198424206,0.387552
+psychologists,female,35580,0.5616865696337145,0.548145
+electricians,male,8484,0.07984559157569247,0.073432
+database and network administrators and architects,male,68482,0.08349694213582942,0.077378
+writers and editors,female,37396,0.224456289044921,0.211868
+social and community service managers,female,7052,0.4952083931946631,0.483267
+"hotel, motel, and resort desk clerks",female,7721,0.22057171283899413,0.210854
+ship and boat captains and operators,male,5469,0.14000537561915763,0.130920
+industrial production managers,female,12345,0.14291381093153288,0.134791
+administrative services and facilities managers,male,33144,0.159586419595005,0.147659
+travel agents,female,5249,0.20584010217751084,0.193561
+management analysts,male,8345,0.15669857366563242,0.148232
+"news analysts, reporters and journalists",female,9615,0.2717371498275297,0.256474
+miscellaneous community and social service specialists,female,16295,0.49329585014033206,0.482479
+miscellaneous health practitioners and technical workers,female,6395,0.40420220359575,0.394058
+"bookkeeping, accounting, and auditing clerks",female,19327,0.13056452596952225,0.122419
+"transportation, storage, and distribution managers",female,33240,0.1436169581886915,0.134898
+driver/sales workers and truck drivers,male,13454,0.11181164688468527,0.103984
+drafters,male,16099,0.10937396707069119,0.102801
+waiters and waitresses,male,6700,0.16004991015359527,0.152537
+mechanical engineers,female,6110,0.16482330568419584,0.158920
+"engineering technologists and technicians, except drafters",male,62244,0.11562649550521796,0.108717
+"industrial engineers, including health and safety",male,70700,0.10577221058301318,0.098119
+police officers,male,10464,0.1990208136286053,0.189411
+"musicians, singers, and related workers",male,19113,0.15599708537435367,0.148381
+medical records specialists,female,7672,0.20052426946073976,0.192779
+miscellaneous social scientists and related workers,female,8368,0.30894717891048906,0.298757
+supervisors of food preparation and serving workers,male,16029,0.11925693416470658,0.111111
+massage therapists,female,6388,0.45577864659938544,0.442862
+miscellaneous sales and related workers,female,5759,0.35112156529478217,0.340858
+dietitians and nutritionists,female,14756,0.5746935538643761,0.562957
+"claims adjusters, appraisers, examiners, and investigators",male,7108,0.13038027543394387,0.122116
+retail salespersons,female,8517,0.21115474874940057,0.202771
+first-line supervisors of construction trades and extraction workers,male,6520,0.11122751504246224,0.101534
+medical and health services managers,male,24088,0.37739648683424826,0.366614
+registered nurses,female,151255,0.4643642939012699,0.455086
+logisticians and project management specialists,male,28628,0.1018941558847571,0.095291
+credit counselors and loan officers,male,38007,0.22479881547963385,0.211277
+architectural and engineering managers,male,111689,0.11899661631460383,0.110745
+"software and web developers, programmers, and testers",female,106171,0.14672731318665755,0.139596
+lawyers and judicial law clerks,male,88296,0.16765091703272833,0.158761
+"securities, commodities, and financial services sales agents",female,100302,0.15916626448736992,0.150994
+first-line supervisors of office and administrative support workers,female,25270,0.21455209292199517,0.205184
+designers,male,22847,0.11870489763511673,0.111437
+sales engineers,male,14372,0.08087133993823384,0.073963
+artists and related workers,female,55912,0.14029403861986028,0.132154
+financial managers,female,108746,0.11681256020142865,0.110064
+"athletes, coaches, umpires, and related workers",female,8665,0.3874615797557202,0.378419
+emergency medical technicians and paramedics,male,5596,0.31957678601237466,0.310400
+natural sciences managers,male,15405,0.1962427260401265,0.186043
+cost estimators,male,7265,0.06580664823784284,0.060427
+miscellaneous business operations specialists,female,15943,0.22137989030679053,0.210374
+"bookkeeping, accounting, and auditing clerks",male,9751,0.10990602993050101,0.104502
+"arts, communications, history, and humanities teachers, postsecondary",female,24970,0.41169334272506025,0.399800
+miscellaneous engineers,female,24536,0.1569197461531399,0.150310
+photographers,female,26608,0.17926543486447424,0.168521
+miscellaneous health technologists and technicians,female,22049,0.34682284814990333,0.336977
+diagnostic related technologists and technicians,female,10569,0.31442398444135117,0.303908
+pharmacists,male,7656,0.4215317774300618,0.412226
+"tax examiners, collectors and preparers, and revenue agents",male,8964,0.11296854053778695,0.107430
+teaching assistants,male,9430,0.27093308512736847,0.261930
+miscellaneous community and social service specialists,male,5589,0.3773670949326547,0.366076
+civil engineers,female,7940,0.216498966420343,0.207935
+"physical sciences teachers, postsecondary",female,14059,0.3815562263153086,0.367878
+"news analysts, reporters and journalists",male,7748,0.1777161715550945,0.167785
+first-line supervisors of transportation and material moving workers,female,6396,0.17329455884330658,0.163227
+"life sciences teachers, postsecondary",male,5056,0.2565082667375446,0.246242
+compensation and benefits managers,female,21837,0.22322334538546268,0.211888
+social science research assistants,male,9655,0.20609064693472104,0.196064
+first-line supervisors of sales workers,female,19492,0.1896951206480574,0.179561
+compliance officers,male,9658,0.1298846963604012,0.120936
+elementary and middle school teachers,female,40559,0.4536703798350515,0.443897
+financial analysts and advisors,female,60472,0.2109604489260656,0.201283
+marketing and sales managers,female,233625,0.17970930429106086,0.170324
+data scientists,male,86325,0.10526871803879863,0.098674
+market research analysts and marketing specialists,female,43852,0.18907963790503857,0.179490
+advertising and promotions managers,female,48278,0.18737714243291761,0.177741
+"musicians, singers, and related workers",female,10835,0.2235958831543385,0.213383
+laborers and material movers,female,6577,0.15530951770195872,0.146267
+buyers and purchasing agents,male,5346,0.09133503539233075,0.085110
+data scientists,female,50958,0.13827761067729585,0.131579
+first-line supervisors of office and administrative support workers,male,12994,0.15644822968267813,0.145837
+"physical sciences teachers, postsecondary",male,15222,0.22692655324745856,0.214886
+computer and information analysts,female,18248,0.13933161418248202,0.131028
+aerospace engineers,male,7761,0.09685793052928199,0.090066
+childcare workers,female,6907,0.387449847097911,0.376430
+insurance sales agents,female,14097,0.3011215924414441,0.290771
+paralegals and legal assistants,male,6532,0.1788430185586953,0.171310
+computer hardware engineers,male,8701,0.0868574070942931,0.082174
+"life sciences teachers, postsecondary",female,7269,0.38287907455901543,0.372954
+"substitute teachers, short-term",female,15352,0.37221641370683367,0.361647
+first-line supervisors of production and operating workers,female,5113,0.14281897098675753,0.136319
+chief executives,male,1518484,0.21034575684470483,0.198897
+miscellaneous engineers,male,122086,0.09509726655166723,0.089093
+miscellaneous computer occupations,male,321757,0.10159375103056247,0.093937
+accountants and auditors,male,46946,0.08719872175030635,0.082520
+general and operations managers,male,239636,0.1527445819673826,0.142299
+human resources workers,male,45886,0.24401871978430625,0.229678
+"miscellaneous sales representatives, services",male,110364,0.12478066100989567,0.117239
+miscellaneous managers,male,83894,0.1702591839360607,0.159249
+"miscellaneous sales representatives, services",female,67413,0.1766532548577062,0.168335
+paralegals and legal assistants,female,36254,0.15738025833124858,0.151045
+bartenders,male,5820,0.13680991390954667,0.127663
+human resources workers,female,88245,0.29927995410992486,0.283008
+designers,female,36589,0.15600829461874965,0.147285
+teaching assistants,female,20676,0.3722077858747574,0.362014
+computer support specialists,female,15463,0.15677213957501412,0.148677
+food service managers,female,9566,0.16455593739008684,0.156074
+astronomers and physicists,male,6563,0.13809241177285328,0.130733
+physicians,female,16953,0.4273469048379205,0.417448
+training and development managers,female,17874,0.4242004799867643,0.408414
+telemarketers,male,5393,0.16303641728214383,0.154089
+medical scientists,female,5760,0.3885723946226828,0.378472
+instructional coordinators,female,11580,0.47369616434079503,0.457945
+"securities, commodities, and financial services sales agents",male,135834,0.1274263016980134,0.118983
+"property, real estate, and community association managers",female,22219,0.18530402334217905,0.176381
+"property, real estate, and community association managers",male,14551,0.15401368257916628,0.145420
+industrial production managers,male,33181,0.09894757232071665,0.089358
+preschool and kindergarten teachers,female,33288,0.40290577558864066,0.392844
+miscellaneous motor vehicle operators,male,6052,0.13043797072587293,0.122935
+miscellaneous social scientists and related workers,male,8519,0.22223979297387986,0.211762
+"tax examiners, collectors and preparers, and revenue agents",female,10430,0.13906649050905892,0.132598
+electrical and electronics engineers,male,25381,0.07821540507704666,0.072732
+photographers,male,24836,0.11229801077020414,0.104284
+human resources managers,female,91372,0.28223678222441784,0.265880
+"actors, producers, and directors",male,36885,0.18220692656365098,0.173350
+customer service representatives,male,36648,0.15092960018440257,0.142600
+mechanical engineers,male,40026,0.09076388080165881,0.085345
+"math and computer science teachers, postsecondary",male,18278,0.24981054216150006,0.238046
+bartenders,female,6699,0.1933207190222396,0.186744
+preschool and kindergarten teachers,male,7749,0.3338231761144255,0.324816
+health practitioner support technologists and technicians,male,9163,0.32974889128703866,0.321510
+health practitioner support technologists and technicians,female,27697,0.3525378767467932,0.343756
+fast food and counter workers,female,5476,0.2694061170515388,0.261687
+"human resources assistants, except payroll and timekeeping",female,6679,0.2680312465084339,0.255727
+physician assistants,female,11913,0.4249136560125727,0.417191
+"television, video, and film camera operators and editors",male,9140,0.08050932152585973,0.074617
+"math and computer science teachers, postsecondary",female,14775,0.37350485850857285,0.358443
+construction equipment operators,male,5130,0.11274339150852461,0.105068
+psychologists,male,8761,0.5130740999709993,0.496176
+"sales representatives, wholesale and manufacturing",male,7853,0.138949547621717,0.133707
+secondary school teachers,male,11683,0.3888370012098069,0.379012
+training and development specialists,female,10718,0.38916186678350617,0.373670
+miscellaneous legal support workers,female,7659,0.20479089910342022,0.196240
+"meeting, convention, and event planners",female,18390,0.19542891751815644,0.184611
+"compensation, benefits, and job analysis specialists",male,6157,0.22848026595201196,0.214553
+training and development specialists,male,7271,0.2723426483068887,0.257599
+public relations and fundraising managers,male,27154,0.2090496902514751,0.196693
+insurance sales agents,male,16144,0.27658753637292555,0.264309

@@ -1,0 +1,97 @@
+OCCUPATION,FEMALE_SHARE,MALE_SHARE,GAP_PP,MIN_GROUP_N
+natural sciences managers,0.340372,0.186043,15.432900000000002,15405.0
+counselors,0.55867,0.405236,15.3434,21427.0
+"physical sciences teachers, postsecondary",0.367878,0.214886,15.299199999999999,14059.0
+training and development managers,0.408414,0.259124,14.928999999999998,14194.0
+chief executives,0.339387,0.198897,14.049,811904.0
+"actors, producers, and directors",0.312794,0.17335,13.944400000000002,36885.0
+social science research assistants,0.326859,0.196064,13.079500000000003,9319.0
+"health teachers, postsecondary",0.425009,0.294659,13.035000000000002,7395.0
+miscellaneous postsecondary teachers,0.398252,0.268299,12.995299999999999,10182.0
+"life sciences teachers, postsecondary",0.372954,0.246242,12.671200000000002,5056.0
+"math and computer science teachers, postsecondary",0.358443,0.238046,12.0397,14775.0
+miscellaneous community and social service specialists,0.482479,0.366076,11.640299999999998,5589.0
+training and development specialists,0.37367,0.257599,11.607099999999997,7271.0
+"arts, communications, history, and humanities teachers, postsecondary",0.3998,0.292306,10.749399999999998,16428.0
+"athletes, coaches, umpires, and related workers",0.378419,0.271919,10.649999999999999,8665.0
+computer and information systems managers,0.233451,0.127507,10.594399999999998,65834.0
+teaching assistants,0.362014,0.26193,10.0084,9430.0
+education and childcare administrators,0.454049,0.355545,9.850399999999999,14257.0
+civil engineers,0.207935,0.118553,8.9382,7940.0
+"news analysts, reporters and journalists",0.256474,0.167785,8.868899999999998,7748.0
+miscellaneous social scientists and related workers,0.298757,0.211762,8.699499999999999,8368.0
+physicians,0.417448,0.333698,8.375,16953.0
+"engineering technologists and technicians, except drafters",0.191301,0.108717,8.2584,27935.0
+drafters,0.181759,0.102801,7.8958,7697.0
+public relations and fundraising managers,0.27544,0.196693,7.874700000000001,27154.0
+miscellaneous computer occupations,0.170995,0.093937,7.7058,146402.0
+mechanical engineers,0.15892,0.085345,7.3575,6110.0
+waiters and waitresses,0.22599,0.152537,7.345299999999999,6700.0
+miscellaneous business operations specialists,0.210374,0.136993,7.3381,15943.0
+miscellaneous managers,0.229783,0.159249,7.053399999999998,60431.0
+secondary school teachers,0.448323,0.379012,6.931100000000001,11683.0
+preschool and kindergarten teachers,0.392844,0.324816,6.802800000000003,7749.0
+database and network administrators and architects,0.145246,0.077378,6.786799999999999,16744.0
+medical and health services managers,0.434106,0.366614,6.7492,24088.0
+administrative services and facilities managers,0.213435,0.147659,6.5776,19561.0
+architectural and engineering managers,0.176301,0.110745,6.555600000000002,72087.0
+general and operations managers,0.207395,0.142299,6.509599999999999,182005.0
+"musicians, singers, and related workers",0.213383,0.148381,6.500199999999998,10835.0
+"industrial engineers, including health and safety",0.162823,0.098119,6.4704,24585.0
+photographers,0.168521,0.104284,6.4237,24836.0
+first-line supervisors of transportation and material moving workers,0.163227,0.09916,6.406700000000002,6396.0
+writers and editors,0.211868,0.149478,6.239,25763.0
+miscellaneous engineers,0.15031,0.089093,6.1217,24536.0
+retail salespersons,0.202771,0.141601,6.117,7507.0
+lawyers and judicial law clerks,0.218585,0.158761,5.982399999999998,68765.0
+first-line supervisors of office and administrative support workers,0.205184,0.145837,5.934700000000001,12994.0
+bartenders,0.186744,0.127663,5.908099999999999,5820.0
+pharmacists,0.470516,0.412226,5.829000000000001,7656.0
+elementary and middle school teachers,0.443897,0.387552,5.634499999999997,13593.0
+management analysts,0.203632,0.148232,5.540000000000001,8345.0
+"substitute teachers, short-term",0.361647,0.306966,5.468099999999998,6144.0
+human resources workers,0.283008,0.229678,5.332999999999998,45886.0
+supervisors of food preparation and serving workers,0.163876,0.111111,5.2764999999999995,6450.0
+psychologists,0.548145,0.496176,5.1968999999999985,8761.0
+"miscellaneous sales representatives, services",0.168335,0.117239,5.109600000000001,67413.0
+human resources managers,0.26588,0.216467,4.941300000000001,34190.0
+real estate brokers and sales agents,0.2597,0.210924,4.877599999999998,91379.0
+compliance officers,0.169423,0.120936,4.848699999999999,9658.0
+logisticians and project management specialists,0.142183,0.095291,4.6892000000000005,26051.0
+computer support specialists,0.148677,0.10197,4.6707,15463.0
+recreation and fitness workers,0.441964,0.395636,4.632800000000003,5591.0
+industrial production managers,0.134791,0.089358,4.543299999999999,12345.0
+marketing and sales managers,0.170324,0.125635,4.4689000000000005,233625.0
+advertising and promotions managers,0.177741,0.133653,4.408800000000001,43396.0
+"software and web developers, programmers, and testers",0.139596,0.09635,4.324599999999999,106171.0
+public relations specialists,0.251632,0.209416,4.221600000000003,9006.0
+registered nurses,0.455086,0.413034,4.205199999999998,23170.0
+first-line supervisors of production and operating workers,0.136319,0.094276,4.2043,5113.0
+market research analysts and marketing specialists,0.17949,0.138475,4.101500000000002,24972.0
+artists and related workers,0.132154,0.093013,3.9140999999999995,52369.0
+"transportation, storage, and distribution managers",0.134898,0.095887,3.901099999999999,33240.0
+first-line supervisors of sales workers,0.179561,0.143618,3.5943000000000005,18953.0
+designers,0.147285,0.111437,3.5848000000000004,22847.0
+computer and information analysts,0.131028,0.096466,3.456200000000001,18248.0
+data scientists,0.131579,0.098674,3.2905,50958.0
+customer service representatives,0.175096,0.1426,3.2495999999999996,36648.0
+"securities, commodities, and financial services sales agents",0.150994,0.118983,3.2010999999999985,100302.0
+food service managers,0.156074,0.124727,3.1346999999999987,9566.0
+laborers and material movers,0.146267,0.11498,3.128700000000001,6577.0
+"property, real estate, and community association managers",0.176381,0.14542,3.0961000000000016,14551.0
+"claims adjusters, appraisers, examiners, and investigators",0.150011,0.122116,2.7895000000000003,7108.0
+miscellaneous healthcare support occupations,0.334199,0.306748,2.7451000000000003,5705.0
+credit counselors and loan officers,0.237959,0.211277,2.668200000000001,28341.0
+insurance sales agents,0.290771,0.264309,2.6461999999999986,14097.0
+"tax examiners, collectors and preparers, and revenue agents",0.132598,0.10743,2.5167999999999995,8964.0
+health practitioner support technologists and technicians,0.343756,0.32151,2.224599999999999,9163.0
+purchasing managers,0.096144,0.074401,2.1742999999999997,11722.0
+therapists,0.478768,0.46026,1.8508000000000024,16243.0
+"bookkeeping, accounting, and auditing clerks",0.122419,0.104502,1.7917000000000003,9751.0
+financial managers,0.110064,0.098511,1.1552999999999993,108746.0
+compensation and benefits managers,0.211888,0.204724,0.7164000000000004,8763.0
+"compensation, benefits, and job analysis specialists",0.218504,0.214553,0.395100000000001,6157.0
+secretaries and administrative assistants,0.194595,0.191013,0.3582000000000002,39856.0
+accountants and auditors,0.08312,0.08252,0.06000000000000033,46946.0
+financial analysts and advisors,0.201283,0.216314,-1.5031000000000017,60472.0
+paralegals and legal assistants,0.151045,0.17131,-2.0264999999999977,6532.0

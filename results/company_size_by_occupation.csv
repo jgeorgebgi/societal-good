@@ -1,0 +1,321 @@
+OCCUPATION,SIZE_BAND,N,POSITIVE_SHARE
+miscellaneous computer occupations,small_1_50,89685,0.156604
+flight attendants,large_5001_plus,7455,0.193964
+retail salespersons,large_5001_plus,9074,0.168503
+public relations and fundraising managers,large_5001_plus,18881,0.191092
+customer service representatives,large_5001_plus,42496,0.155144
+diagnostic related technologists and technicians,small_1_50,2196,0.283242
+database and network administrators and architects,large_5001_plus,34731,0.076790
+training and development specialists,small_1_50,3589,0.367790
+miscellaneous motor vehicle operators,large_5001_plus,4092,0.130987
+physicians,large_5001_plus,18339,0.362179
+advertising and promotions managers,small_1_50,23951,0.191516
+"miscellaneous sales representatives, services",small_1_50,45799,0.135156
+industrial production managers,small_1_50,8025,0.101558
+management analysts,large_5001_plus,9454,0.155701
+"athletes, coaches, umpires, and related workers",small_1_50,11465,0.313650
+electrical and electronics engineers,small_1_50,4368,0.094780
+chemical engineers,large_5001_plus,8236,0.098349
+health practitioner support technologists and technicians,large_5001_plus,20109,0.335770
+health practitioner support technologists and technicians,small_1_50,8662,0.348072
+physicians,small_1_50,6632,0.398522
+"office clerks, general",small_1_50,2026,0.184107
+special education teachers,small_1_50,4721,0.467909
+air traffic controllers and airfield operations specialists,small_1_50,2063,0.184683
+first-line supervisors of office and administrative support workers,large_5001_plus,13328,0.180672
+"substitute teachers, short-term",large_5001_plus,7170,0.334449
+miscellaneous postsecondary teachers,small_1_50,5597,0.338753
+materials engineers,large_5001_plus,2484,0.082528
+telemarketers,small_1_50,2255,0.188470
+"nursing assistants, orderlies, and psychiatric aides",large_5001_plus,2128,0.364662
+recreation and fitness workers,large_5001_plus,2482,0.385173
+computer and information systems managers,small_1_50,45374,0.211178
+laborers and material movers,large_5001_plus,11183,0.128588
+miscellaneous health technologists and technicians,small_1_50,4684,0.343937
+clergy,small_1_50,10041,0.429937
+"barbers, hairdressers, hairstylists and cosmetologists",small_1_50,3727,0.202307
+secondary school teachers,large_5001_plus,5648,0.429710
+insurance sales agents,small_1_50,8090,0.260692
+chemists and materials scientists,large_5001_plus,2309,0.119099
+lodging managers,large_5001_plus,2672,0.159431
+writers and editors,large_5001_plus,7720,0.123057
+waiters and waitresses,large_5001_plus,4812,0.196384
+"securities, commodities, and financial services sales agents",large_5001_plus,73067,0.128731
+financial managers,large_5001_plus,69726,0.100551
+training and development managers,large_5001_plus,8488,0.250000
+miscellaneous healthcare diagnosing or treating practitioners,small_1_50,6520,0.519172
+human resources workers,large_5001_plus,47289,0.256719
+"health teachers, postsecondary",large_5001_plus,7391,0.343661
+construction managers,small_1_50,7524,0.081871
+database and network administrators and architects,small_1_50,13293,0.120439
+artists and related workers,large_5001_plus,12737,0.095862
+"engineering technologists and technicians, except drafters",small_1_50,13723,0.167966
+financial analysts and advisors,small_1_50,35079,0.243108
+miscellaneous healthcare support occupations,small_1_50,13350,0.336554
+"compensation, benefits, and job analysis specialists",small_1_50,2196,0.263206
+"securities, commodities, and financial services sales agents",small_1_50,53148,0.138989
+biological scientists,large_5001_plus,2637,0.211983
+dentists,small_1_50,3743,0.500401
+bioengineers and biomedical engineers,large_5001_plus,2073,0.196334
+budget analysts,large_5001_plus,2234,0.109221
+photographers,small_1_50,10548,0.138889
+"mining and geological engineers, including mining safety engineers",large_5001_plus,2146,0.130475
+physical therapist assistants and aides,large_5001_plus,2208,0.451540
+postal service workers,large_5001_plus,4625,0.139892
+environmental engineers,large_5001_plus,2147,0.211458
+credit counselors and loan officers,small_1_50,13113,0.249828
+drafters,large_5001_plus,4678,0.074391
+"shipping, receiving, and inventory clerks",large_5001_plus,2824,0.111898
+natural sciences managers,large_5001_plus,16925,0.242482
+electrical and electronics engineers,large_5001_plus,15425,0.077731
+miscellaneous health technologists and technicians,large_5001_plus,13460,0.322437
+compliance officers,small_1_50,3317,0.168224
+secondary school teachers,small_1_50,8630,0.404519
+dietitians and nutritionists,large_5001_plus,6269,0.496889
+waiters and waitresses,small_1_50,7443,0.198576
+"sales representatives, wholesale and manufacturing",small_1_50,2113,0.177000
+bill and account collectors,large_5001_plus,3229,0.092598
+"hotel, motel, and resort desk clerks",large_5001_plus,4127,0.179065
+receptionists and information clerks,large_5001_plus,2481,0.193470
+veterinarians,small_1_50,2442,0.361179
+"models, demonstrators, and product promoters",large_5001_plus,2491,0.162585
+miscellaneous business operations specialists,small_1_50,6996,0.204831
+instructional coordinators,small_1_50,3030,0.458086
+miscellaneous health practitioners and technical workers,small_1_50,2052,0.379630
+secretaries and administrative assistants,small_1_50,61363,0.211023
+computer and information systems managers,large_5001_plus,114993,0.110024
+marketing and sales managers,large_5001_plus,149235,0.134560
+"substitute teachers, short-term",small_1_50,3560,0.343820
+air traffic controllers and airfield operations specialists,large_5001_plus,4485,0.151839
+paralegals and legal assistants,small_1_50,18665,0.180070
+teaching assistants,small_1_50,8849,0.331337
+insurance sales agents,large_5001_plus,9893,0.252704
+miscellaneous managers,small_1_50,24875,0.220422
+architectural and engineering managers,small_1_50,31843,0.164118
+registered nurses,large_5001_plus,92441,0.448556
+"news analysts, reporters and journalists",small_1_50,5709,0.215800
+medical scientists,large_5001_plus,4635,0.340453
+"arts, communications, history, and humanities teachers, postsecondary",large_5001_plus,6852,0.346030
+"arts, communications, history, and humanities teachers, postsecondary",small_1_50,11378,0.367815
+"musicians, singers, and related workers",small_1_50,10275,0.175280
+food service managers,small_1_50,4439,0.157693
+billing and posting clerks,small_1_50,4087,0.113041
+legislators,small_1_50,2280,0.326316
+mechanical engineers,large_5001_plus,22518,0.089972
+"life sciences teachers, postsecondary",small_1_50,4170,0.323741
+"hotel, motel, and resort desk clerks",small_1_50,3219,0.222429
+"bookkeeping, accounting, and auditing clerks",large_5001_plus,10580,0.109452
+teaching assistants,large_5001_plus,10294,0.291432
+aerospace engineers,large_5001_plus,6094,0.088940
+dietitians and nutritionists,small_1_50,3359,0.599583
+physical therapist assistants and aides,small_1_50,2252,0.466252
+miscellaneous legal support workers,large_5001_plus,3799,0.167412
+statisticians,large_5001_plus,2174,0.162833
+credit analysts,large_5001_plus,2073,0.077665
+administrative services and facilities managers,small_1_50,12431,0.197249
+aircraft pilots and flight engineers,large_5001_plus,9191,0.130018
+sailors and marine oilers,large_5001_plus,3529,0.213092
+first-line supervisors of transportation and material moving workers,small_1_50,5511,0.107784
+"athletes, coaches, umpires, and related workers",large_5001_plus,2283,0.301358
+payroll and timekeeping clerks,large_5001_plus,3335,0.112144
+lodging managers,small_1_50,2367,0.177862
+food service managers,large_5001_plus,7486,0.125701
+miscellaneous health practitioners and technical workers,large_5001_plus,4463,0.319292
+mechanical engineers,small_1_50,7595,0.110862
+construction managers,large_5001_plus,5437,0.085525
+miscellaneous computer occupations,large_5001_plus,209977,0.097649
+cashiers,large_5001_plus,8360,0.180144
+"actors, producers, and directors",small_1_50,26580,0.289428
+data scientists,small_1_50,19695,0.142625
+human resources managers,large_5001_plus,38402,0.237253
+actuaries,large_5001_plus,3676,0.085147
+miscellaneous postsecondary teachers,large_5001_plus,5625,0.309689
+accountants and auditors,large_5001_plus,31118,0.086060
+"miscellaneous sales representatives, services",large_5001_plus,53689,0.144760
+"claims adjusters, appraisers, examiners, and investigators",large_5001_plus,9972,0.153630
+"industrial engineers, including health and safety",large_5001_plus,51684,0.103456
+paralegals and legal assistants,large_5001_plus,4435,0.126268
+"tax examiners, collectors and preparers, and revenue agents",large_5001_plus,11217,0.112686
+human resources workers,small_1_50,27930,0.266094
+detectives and criminal investigators,large_5001_plus,4715,0.176670
+education and childcare administrators,small_1_50,11035,0.435342
+pharmacists,large_5001_plus,13601,0.452540
+"compensation, benefits, and job analysis specialists",large_5001_plus,10380,0.194412
+"production, planning, and expediting clerks",large_5001_plus,3333,0.103210
+physician assistants,small_1_50,4212,0.423314
+natural sciences managers,small_1_50,7829,0.328011
+compensation and benefits managers,small_1_50,3465,0.243579
+"transportation, storage, and distribution managers",small_1_50,15169,0.125190
+electricians,large_5001_plus,2231,0.085164
+fast food and counter workers,large_5001_plus,5012,0.213288
+emergency medical technicians and paramedics,large_5001_plus,3150,0.360317
+sales engineers,large_5001_plus,4574,0.088763
+social and community service managers,small_1_50,4358,0.483479
+administrative services and facilities managers,large_5001_plus,16302,0.157527
+"sales representatives, wholesale and manufacturing",large_5001_plus,5041,0.177544
+"adult basic education, adult secondary education, and english as a second language instructors",large_5001_plus,3577,0.406486
+miscellaneous media and communication workers,small_1_50,2127,0.252468
+supervisors of food preparation and serving workers,large_5001_plus,5286,0.124858
+massage therapists,small_1_50,2296,0.434233
+"barbers, hairdressers, hairstylists and cosmetologists",large_5001_plus,2333,0.188598
+cooks,large_5001_plus,2802,0.137045
+miscellaneous engineers,small_1_50,23051,0.111188
+medical and health services managers,large_5001_plus,28238,0.389475
+social science research assistants,large_5001_plus,12802,0.225355
+buyers and purchasing agents,large_5001_plus,4389,0.093415
+financial managers,small_1_50,52196,0.118419
+miscellaneous community and social service specialists,large_5001_plus,6915,0.405785
+fundraisers,small_1_50,3074,0.468445
+public relations specialists,large_5001_plus,8330,0.204682
+first-line supervisors of production and operating workers,large_5001_plus,5809,0.107592
+writers and editors,small_1_50,15433,0.197823
+"industrial engineers, including health and safety",small_1_50,10730,0.143709
+computer support specialists,large_5001_plus,31267,0.097483
+"life sciences teachers, postsecondary",large_5001_plus,4238,0.264512
+elementary and middle school teachers,large_5001_plus,13951,0.422694
+purchasing managers,large_5001_plus,9480,0.086498
+social workers,small_1_50,5970,0.544891
+"television, video, and film camera operators and editors",small_1_50,3534,0.090266
+instructional coordinators,large_5001_plus,5518,0.382385
+computer support specialists,small_1_50,12363,0.117690
+economists,large_5001_plus,3074,0.177619
+supervisors of food preparation and serving workers,small_1_50,6136,0.126630
+"miscellaneous electrical and electronic equipment mechanics, installers, and repairers",large_5001_plus,2381,0.089038
+miscellaneous legal support workers,small_1_50,2892,0.195367
+tellers,large_5001_plus,2477,0.156641
+management analysts,small_1_50,2445,0.233129
+public relations specialists,small_1_50,8264,0.272144
+military officer special and tactical operations leaders,large_5001_plus,2869,0.146392
+physician assistants,large_5001_plus,6432,0.377177
+construction equipment operators,large_5001_plus,2284,0.097636
+miscellaneous community and social service specialists,small_1_50,5532,0.478489
+"broadcast, sound, and lighting technicians",small_1_50,3618,0.092316
+medical records specialists,large_5001_plus,3722,0.216013
+passenger vehicle drivers,large_5001_plus,2407,0.164520
+miscellaneous personal appearance workers,small_1_50,2511,0.245719
+receptionists and information clerks,small_1_50,4011,0.207679
+lawyers and judicial law clerks,large_5001_plus,26079,0.122589
+lawyers and judicial law clerks,small_1_50,47782,0.230903
+chief executives,large_5001_plus,101311,0.178342
+logisticians and project management specialists,small_1_50,9989,0.145360
+architectural and engineering managers,large_5001_plus,93969,0.118018
+miscellaneous managers,large_5001_plus,65071,0.164666
+customer service representatives,small_1_50,22042,0.177162
+general and operations managers,large_5001_plus,111264,0.153257
+computer and information analysts,large_5001_plus,31863,0.100618
+advertising and promotions managers,large_5001_plus,28790,0.134908
+preschool and kindergarten teachers,large_5001_plus,7946,0.393657
+market research analysts and marketing specialists,small_1_50,24904,0.177281
+"meeting, convention, and event planners",small_1_50,8550,0.215205
+counselors,small_1_50,25151,0.523160
+miscellaneous engineers,large_5001_plus,69987,0.089117
+billing and posting clerks,large_5001_plus,4802,0.091837
+"models, demonstrators, and product promoters",small_1_50,3679,0.205491
+"tax examiners, collectors and preparers, and revenue agents",small_1_50,3499,0.130037
+clinical laboratory technologists and technicians,large_5001_plus,6366,0.265473
+first-line supervisors of production and operating workers,small_1_50,5468,0.108998
+recreation and fitness workers,small_1_50,5646,0.438009
+compensation and benefits managers,large_5001_plus,13595,0.215006
+nuclear engineers,large_5001_plus,3227,0.143167
+fast food and counter workers,small_1_50,2066,0.277832
+civil engineers,small_1_50,5335,0.137207
+cost estimators,small_1_50,2766,0.072307
+driver/sales workers and truck drivers,small_1_50,3005,0.114476
+human resources managers,small_1_50,23275,0.266638
+preschool and kindergarten teachers,small_1_50,13003,0.370684
+chiropractors,small_1_50,2282,0.631464
+elementary and middle school teachers,small_1_50,14573,0.424209
+police officers,small_1_50,2278,0.208955
+police officers,large_5001_plus,3681,0.203477
+locomotive engineers and operators,large_5001_plus,3199,0.140356
+cooks,small_1_50,3091,0.153025
+operations research analysts,large_5001_plus,2100,0.105714
+"maintenance and repair workers, general",large_5001_plus,4215,0.071174
+"software and web developers, programmers, and testers",large_5001_plus,282465,0.091969
+registered nurses,small_1_50,27425,0.468769
+industrial production managers,large_5001_plus,15981,0.105876
+real estate brokers and sales agents,small_1_50,71628,0.246859
+accountants and auditors,small_1_50,28901,0.088578
+"software and web developers, programmers, and testers",small_1_50,71986,0.122079
+medical and health services managers,small_1_50,16946,0.453794
+drafters,small_1_50,9615,0.159750
+designers,large_5001_plus,14248,0.138756
+military enlisted tactical operations and air/weapons specialists and crew members,large_5001_plus,3268,0.157283
+data scientists,large_5001_plus,86776,0.091085
+astronomers and physicists,large_5001_plus,6330,0.132385
+"bookkeeping, accounting, and auditing clerks",small_1_50,7424,0.119612
+"physical sciences teachers, postsecondary",small_1_50,7156,0.282700
+real estate brokers and sales agents,large_5001_plus,48829,0.246390
+civil engineers,large_5001_plus,15807,0.140950
+counselors,large_5001_plus,11045,0.465188
+therapists,large_5001_plus,24429,0.457939
+"human resources assistants, except payroll and timekeeping",large_5001_plus,2672,0.227919
+first-line supervisors of sales workers,large_5001_plus,20843,0.161445
+market research analysts and marketing specialists,large_5001_plus,13213,0.145917
+computer and information analysts,small_1_50,7311,0.122008
+"math and computer science teachers, postsecondary",large_5001_plus,10900,0.255321
+laborers and material movers,small_1_50,3512,0.139237
+emergency medical technicians and paramedics,small_1_50,2014,0.331182
+"meeting, convention, and event planners",large_5001_plus,3642,0.145799
+retail salespersons,small_1_50,3437,0.187955
+bartenders,small_1_50,5094,0.167452
+"health teachers, postsecondary",small_1_50,6148,0.377033
+procurement clerks,large_5001_plus,4941,0.095932
+occupational health and safety specialists and technicians,large_5001_plus,2919,0.303186
+miscellaneous protective service workers,large_5001_plus,2457,0.202686
+miscellaneous sales and related workers,small_1_50,2096,0.334924
+home health and personal care aides,small_1_50,2352,0.350765
+aircraft mechanics and service technicians,large_5001_plus,2755,0.067877
+"meter readers, utilities",large_5001_plus,2712,0.088864
+sales engineers,small_1_50,3777,0.072544
+designers,small_1_50,16446,0.142284
+miscellaneous social scientists and related workers,small_1_50,4461,0.308003
+miscellaneous financial specialists,large_5001_plus,4142,0.137856
+education and childcare administrators,large_5001_plus,5428,0.347273
+social science research assistants,small_1_50,5047,0.271250
+first-line supervisors of sales workers,small_1_50,6549,0.161704
+tutors,small_1_50,3060,0.397712
+miscellaneous healthcare diagnosing or treating practitioners,large_5001_plus,2684,0.334575
+"math and computer science teachers, postsecondary",small_1_50,7689,0.288074
+"adult basic education, adult secondary education, and english as a second language instructors",small_1_50,4230,0.434515
+telemarketers,large_5001_plus,2050,0.162927
+therapists,small_1_50,16293,0.503959
+chief executives,small_1_50,915871,0.280812
+secretaries and administrative assistants,large_5001_plus,62368,0.177351
+social workers,large_5001_plus,7417,0.546043
+marketing and sales managers,small_1_50,161109,0.158278
+financial analysts and advisors,large_5001_plus,93007,0.224144
+"transportation, storage, and distribution managers",large_5001_plus,45634,0.104878
+public relations and fundraising managers,small_1_50,22369,0.310519
+artists and related workers,small_1_50,34740,0.122510
+training and development specialists,large_5001_plus,6448,0.282878
+logisticians and project management specialists,large_5001_plus,24362,0.105164
+first-line supervisors of office and administrative support workers,small_1_50,9540,0.218134
+"engineering technologists and technicians, except drafters",large_5001_plus,46881,0.111900
+pharmacists,small_1_50,2931,0.455817
+psychologists,small_1_50,14942,0.558091
+"physical sciences teachers, postsecondary",large_5001_plus,9285,0.241465
+"eligibility interviewers, government programs",large_5001_plus,2206,0.272892
+training and development managers,small_1_50,10972,0.421163
+"actors, producers, and directors",large_5001_plus,11683,0.221604
+psychologists,large_5001_plus,4689,0.489230
+first-line supervisors of transportation and material moving workers,large_5001_plus,8312,0.134143
+environmental scientists and geoscientists,large_5001_plus,3441,0.190933
+special education teachers,large_5001_plus,5592,0.491416
+"miscellaneous life, physical, and social science technicians",large_5001_plus,3848,0.135655
+ship and boat captains and operators,large_5001_plus,2388,0.151591
+purchasing managers,small_1_50,4396,0.098954
+"property, real estate, and community association managers",large_5001_plus,6234,0.155759
+miscellaneous social scientists and related workers,large_5001_plus,6880,0.208721
+insurance claims and policy processing clerks,large_5001_plus,3410,0.180352
+general and operations managers,small_1_50,143117,0.190662
+miscellaneous business operations specialists,large_5001_plus,12902,0.150597
+credit counselors and loan officers,large_5001_plus,14456,0.164638
+diagnostic related technologists and technicians,large_5001_plus,7290,0.310151
+"property, real estate, and community association managers",small_1_50,10611,0.164075
+compliance officers,large_5001_plus,10061,0.142034
+miscellaneous healthcare support occupations,large_5001_plus,12524,0.328250
+computer hardware engineers,large_5001_plus,7097,0.066507
+conservation scientists and foresters,large_5001_plus,2031,0.260955
+electricians,small_1_50,2164,0.077634
+driver/sales workers and truck drivers,large_5001_plus,7520,0.128191
